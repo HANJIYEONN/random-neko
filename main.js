@@ -1,1 +1,3 @@
-module.exports = {ko:'냥냥',ja:  '猫', en: 'cat', fr: 'chat'};
+const nekoList = require('./nekoList.js');
+const nekoEmoji = nekoList[Math.floor(Math.random() * nekoList.length)];
+module.exports = nekoEmoji;

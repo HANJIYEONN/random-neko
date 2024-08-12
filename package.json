@@ -1,6 +1,6 @@
 {
   "name": "random-neko",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "render some neko Emoji",
   "main": "main.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "jiyeon-han",
   "license": "ISC",
   "dependencies": {
-    "random-neko": "^1.0.4"
+    "random-neko": "^1.0.5"
   }
 }
